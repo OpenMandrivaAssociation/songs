@@ -1,6 +1,6 @@
 %define name	songs
 %define version	0.3
-%define release %mkrel 1
+%define release %mkrel 3
 
 Name: 	 	%{name}
 Summary: 	A little tool used to record and mix audio files
