@@ -12,6 +12,7 @@ URL:		https://sed.free.fr/songs/
 License:	Public Domain
 Group:		Sound
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:	pkgconfig gtk2-devel
 
 %description
